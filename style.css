@@ -1,9 +1,10 @@
-/* .container{
+.container{
     display: grid;
-    grid-template-columns: ;
-    grid-template-rows: ;
+    place-items: center;
+    height: 50vh;
 }
 
+/*
 #welcome{
     grid-template-columns: ;
     grid-template-rows: ;
